@@ -1,5 +1,7 @@
-# Phantom Text (HDNA Lab #150) — Zero‑Width Unicode Stego
+# Phantom Text
+Zero‑Width Unicode Stego
 
+[https://hackerdna.com/fr/labs/phantom-text](https://hackerdna.com/fr/labs/phantom-text)
 
 ## What’s going on
 The blog post looks normal, but it contains *invisible* Unicode **format** characters (General Category **`Cf`**) embedded inside visible text.
